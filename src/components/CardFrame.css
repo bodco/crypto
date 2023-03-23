@@ -1,0 +1,87 @@
+.card-frame-2170 {
+  color: #f7931a;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-right: 2px;
+  font-family: Gilroy, Arial;
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 24px;
+  display: flex;
+}
+
+.icons-2 {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.flex-container-9 {
+  height: 45%;
+  flex-direction: column;
+  flex-basis: 24%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 1px;
+  padding-right: 1px;
+  font-size: 1rem;
+  line-height: 20px;
+  display: flex;
+}
+
+.flex-container-10 {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  align-items: flex-end;
+  margin-left: 1px;
+  display: flex;
+}
+
+.bitcoin {
+  font-size: 1.125rem;
+}
+
+.btc {
+  text-transform: uppercase;
+  color: #fff;
+  margin-right: -65px;
+}
+
+.flex-container-11 {
+  color: #fff;
+  width: 95%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-size: 1.125rem;
+  line-height: 24px;
+  display: flex;
+}
+
+.num-2041212, .ejdeealuvublm {
+  text-transform: uppercase;
+}
+
+.frame-1 {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-top: 14px;
+}
+
+.num-10-2 {
+  text-transform: uppercase;
+  color: #6cc04a;
+  margin-top: 14px;
+}
+
+.graph-1 {
+  width: 124px;
+  height: 50px;
+  object-fit: cover;
+  margin-bottom: 1px;
+  margin-left: 37px;
+}

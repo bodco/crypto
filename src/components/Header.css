@@ -1,0 +1,57 @@
+.header {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 24px;
+  display: flex;
+}
+
+.frame-6 {
+  width: 146px;
+  height: 32px;
+  object-fit: cover;
+}
+
+.menu-item-instance {
+  height: 30%;
+  flex-basis: 5%;
+  margin-left: 360px;
+}
+
+.menu-item-instance-1 {
+  height: 30%;
+  flex-basis: 4%;
+  margin-left: 24px;
+}
+
+.menu-item-instance-3 {
+  height: 30%;
+  flex-basis: 3%;
+  margin-left: 24px;
+}
+
+.vector-2 {
+  height: 24px;
+  object-fit: cover;
+  border: 1px solid #4e4e4e;
+  margin-left: 24px;
+}
+
+.buttons-instance-2 {
+  height: 60%;
+  flex-basis: 8%;
+  margin-left: 24px;
+}
+
+.buttons-instance-3 {
+  height: 60%;
+  flex-basis: 9%;
+  margin-left: 16px;
+}
+
+.icons-24-x-5, .icons-24-x-6 {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 24px;
+}

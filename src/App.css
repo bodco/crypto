@@ -1,0 +1,366 @@
+.main-page-v-1-dark {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #030303;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Gilroy, Arial;
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 20px;
+  display: flex;
+}
+
+.bg {
+  height: 100%;
+  background-color: #1f1f1f;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-right: 360px;
+  display: flex;
+}
+
+.cat-absolute-container {
+  text-align: center;
+  z-index: 1;
+  height: 85%;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-evenly;
+  align-self: center;
+  align-items: center;
+  margin-right: -468px;
+  padding-left: 6px;
+  padding-right: 49px;
+  font-size: 3rem;
+  line-height: 48px;
+  display: flex;
+}
+
+.buy-bitcoin, .c-rypto {
+  text-transform: uppercase;
+  margin-left: 22px;
+}
+
+.lorem-ipsum-dolor-sit-amet-conse {
+  margin-left: 22px;
+  font-family: Poppins, Arial;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 26px;
+}
+
+.flex-container {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 22%;
+  justify-content: space-around;
+  align-items: stretch;
+  margin-left: 3px;
+  display: flex;
+}
+
+.frame-2163-instance-1 {
+  height: 65%;
+  flex-basis: 31%;
+  margin-top: 4px;
+}
+
+.frame-2078 {
+  color: #fff;
+  height: 30%;
+  background-color: #3d7eff;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 11%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 62px;
+  font-family: Gilroy, Arial;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+}
+
+.register {
+  margin-top: 1px;
+}
+
+.iconsax-linearusercirlceadd {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 5px;
+}
+
+.frame-2079 {
+  color: #fff;
+  height: 30%;
+  background-color: #0000;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 9%;
+  justify-content: center;
+  align-items: center;
+  font-family: Gilroy, Arial;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+}
+
+.login {
+  margin-top: 1px;
+}
+
+.iconsax-linearlogin {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 5px;
+}
+
+.card-instance-2 {
+  height: 65%;
+  flex-basis: 31%;
+  margin-top: 4px;
+  margin-left: 48px;
+}
+
+.flex-container-1 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 14%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 45px;
+  margin-left: 55px;
+  display: flex;
+}
+
+.card-instance-1 {
+  height: 100%;
+  flex-basis: 31%;
+  margin-top: 1px;
+}
+
+.frame-2170-instance {
+  height: 100%;
+  flex-basis: 31%;
+  margin-bottom: 1px;
+}
+
+.frame-2171-instance {
+  width: 30%;
+  flex-basis: 13%;
+  margin-top: 6px;
+}
+
+.cat-absolute-container-1 {
+  color: #f0b90b;
+  z-index: 1;
+  height: 70%;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-self: center;
+  align-items: flex-end;
+  margin-right: -514px;
+  padding-bottom: 28px;
+  padding-left: 55px;
+  display: flex;
+}
+
+.icons {
+  z-index: 1;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  margin-right: -18px;
+}
+
+.frame-2164 {
+  height: 20%;
+  background-color: #ffffff0d;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 26%;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 16px;
+  padding-left: 8px;
+  display: flex;
+}
+
+.flex-container-2 {
+  height: 45%;
+  flex-direction: column;
+  flex-basis: 19%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 1px;
+  margin-left: 1px;
+  display: flex;
+}
+
+.flex-container-3 {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-left: 1px;
+  display: flex;
+}
+
+.bnb {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.flex-container-4 {
+  color: #fff;
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 38%;
+  justify-content: space-between;
+  align-items: flex-end;
+  line-height: 24px;
+  display: flex;
+}
+
+.num-58765 {
+  text-transform: uppercase;
+}
+
+.brmaieuvnvqoj {
+  text-transform: uppercase;
+  align-self: flex-start;
+}
+
+.frame {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-top: 14px;
+}
+
+.num-10 {
+  text-transform: uppercase;
+  color: #6cc04a;
+  margin-top: 14px;
+  line-height: 24px;
+}
+
+.graph {
+  width: 124px;
+  height: 50px;
+  object-fit: cover;
+  margin-bottom: 1px;
+  margin-left: 50px;
+}
+
+.price-indication-1 {
+  width: 1440px;
+  object-fit: cover;
+  border: 1.21167px solid #3e3f55;
+  align-self: center;
+  margin-top: 14px;
+  margin-left: -51px;
+  margin-right: -643px;
+}
+
+.price-indication {
+  width: 1440px;
+  object-fit: cover;
+  border: 1.21167px solid #3e3f55;
+  margin-bottom: 161px;
+  margin-left: 8px;
+  margin-right: -792px;
+}
+
+.chart {
+  width: 718px;
+  height: 80px;
+  object-fit: cover;
+  margin-left: 78px;
+  margin-right: 409px;
+}
+
+.vector-1 {
+  width: 1440px;
+  height: 609px;
+  object-fit: cover;
+  border: 1px solid;
+  align-self: center;
+  margin-top: 37px;
+  margin-left: -351px;
+  margin-right: -1221px;
+}
+
+.vector {
+  width: 1440px;
+  height: 744px;
+  object-fit: cover;
+  border: 1.01387px solid;
+  align-self: center;
+  margin-top: 18px;
+  margin-left: 399px;
+  margin-right: -1414px;
+}
+
+.noise {
+  height: 100%;
+  background-image: url("/src/assets/noise.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 490px;
+  margin-right: -381px;
+  display: flex;
+}
+
+.header-instance-1 {
+  width: 100%;
+  flex-basis: 9%;
+}
+
+.mac-book-pro-16-2022 {
+  width: 832px;
+  height: 448px;
+  object-fit: cover;
+}
+
+.ellipse {
+  width: 833px;
+  height: 444px;
+  object-fit: cover;
+  margin-left: -320px;
+  margin-right: -1130px;
+}
+
+.ellipse-1 {
+  width: 708px;
+  height: 454px;
+  object-fit: cover;
+  margin-left: 925px;
+  margin-right: -1165px;
+}
+
+.chart-1 {
+  width: 718px;
+  height: 80px;
+  object-fit: cover;
+  margin-left: 1081px;
+}

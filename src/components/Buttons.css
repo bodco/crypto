@@ -1,0 +1,25 @@
+.buttons {
+  color: #fff;
+  background-color: #0000;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Gilroy, Arial;
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+}
+
+.login-1 {
+  margin-top: 1px;
+}
+
+.icons-24-x-3 {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 5px;
+}
